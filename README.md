@@ -7,4 +7,4 @@ This is a Github webpage ported to android using WebView. You can use the projec
     <img src="https://github.com/Fut1le/github_mobile/blob/master/images/image_3.jpg" width="32%">
 </div>
 ### Download
-https://github.com/Fut1le/github_mobile/releases/download/latest/app-debug.apk
+https://github.com/Fut1le/github_mobile/releases/download/latest/
